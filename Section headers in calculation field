@@ -1,0 +1,19 @@
+@uniqueid;
+Var txt = “Company information”;
+“<hr/>\n”+”<b>”+txt.toUpperCase()+”</b>+”\n<hr>”
+
+
+@unique ID;
+Var txt  = “SALES INFORMATION”;
+“<h1><strong>”+txt+”</strong></h1><br/><hr>”
+
+
+
+
+x = @Unique ID
+
+l = "800"; h = "60"; 
+bge = "f2b10d"; fte = "FFFFFF"; 
+tixt = "Send Invoice";
+
+"![](http://dummyimage.com/" + l + "x" + h + "/" + bge + "/" + fte + "&amp;text=" + tixt + ")";
